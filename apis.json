@@ -1,0 +1,53 @@
+{
+    "name": "Restlet DHC",
+    "description": "Restlet is a web API platform vendor, pioneer of RESTful web APIs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18987-restlet-dhc.jpg",
+    "tags": [
+        "clients",
+        "have api",
+        "testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/restlet-dhc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Restlet DHC",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18987-restlet-dhc.jpg",
+            "humanURL": "https:\/\/restlet.com\/products\/dhc\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/restlet-dhc-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/restlet"
+        },
+        {
+            "type": "Email",
+            "url": "contact@restlet.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@restlet.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/restlet"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/restlet.com\/products\/dhc\/"
+        }
+    ]
+}
